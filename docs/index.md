@@ -50,7 +50,7 @@ function calcAge(year) {
 **Function expression**
 
 ```
-const calcAgeVar = function (year) { // a.k.a anonyumous function
+const calcAgeVar = function (year) { // a.k.a anonymous function
   // calculate and return something.
 }
 
