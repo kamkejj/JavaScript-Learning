@@ -63,3 +63,28 @@ year => 2020 - year; // <parameter> => <return statement>;
 const age = year => 2020 - year; // <variable> = <parameter> => <return statement>;
 ```
 
+## Objects
+
+```
+const test = {}; // Curly braces define new object.
+```
+
+```
+const test = {
+  property1: 'Joe',
+  property2: 12,
+  property3: ['1', '2', '3', '4']
+};
+```
+
+### Dot versus Bracket notation
+
+```
+const prop1 = test.property1,
+```
+same as 
+
+```
+const prop1 = test[property1],
+```
+
