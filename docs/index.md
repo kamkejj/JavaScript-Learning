@@ -15,7 +15,8 @@ let vs. const
 Use const in most cases unless the value of the variable will in fact be changed at some point in the program.
 
 ```var variable = 456;```
-Usr var should be avoided in modern ES6+ JavaScript.
+Using var should be avoided in modern ES6+ JavaScript.
+
 Has global scope.
 
 ## Strings

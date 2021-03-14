@@ -2,7 +2,7 @@ title: JavaScript Intro
 author: Jon
 email: jon@kamke.org
 description: > # this means to ignore newlines until "baseurl:"
-  A site decription.
+  Some JavaScrtipt basics.
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  kamkejj # DO NOT include the @ character, or else the build will fail!
